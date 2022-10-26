@@ -27,7 +27,7 @@ function playerChoice() {
        input = window.prompt (
         "Type Rock, Paper, or Scissors. Capitalization does not matter but speeling needs to be correct."
     );
-        return;
+        return input;
     }
     return input;
 }
