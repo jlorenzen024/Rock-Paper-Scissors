@@ -70,14 +70,3 @@ function logRound(playerChoice,computerChoice,winner,round){
     console.log(winner,("Won the round!"));
     console.log("--------------------------------------------------------")
 }
-
-
-
-
-/* Create buttons for each option RPS
-    
-correlate each button on html with its corresponding choice on js
-
-for each choice create an array for pc choice limited to the other 2 options
-
-create an if statement correlating to the winner of both pc and user input*/
