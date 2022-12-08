@@ -12,7 +12,7 @@ button {
     font-size:17px;
     color: white;
     font-weight: bold;
-    background-color: red;
+    background-color: rgb(202, 143, 202);
     width: 150px;
     height: 50px;
     border-radius: 10px;
@@ -24,8 +24,8 @@ button:hover {
 }
 
 h1 {
-    font-size: 100px;
-    color: red;
+    font-size: 120px;
+    color: rgb(202, 143, 202);
     -webkit-text-stroke: 1px black ;
 }
 
@@ -37,7 +37,7 @@ h3 {
 }
 
 p {
-    color: red;
+    color: rgb(202, 143, 202);
     font-size: 20px;
 }
 
