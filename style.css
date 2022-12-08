@@ -24,15 +24,16 @@ button:hover {
 }
 
 h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 120px;
     color: rgb(202, 143, 202);
-    -webkit-text-stroke: 1px black ;
+    -webkit-text-stroke: 1px white ;
 }
 
 h3 {
     color: white;
     outline: 1px;
-    -webkit-text-stroke: 1px black ;
+    -webkit-text-stroke: 1px rgb(202, 143, 202) ;
     font-size: 40px;
 }
 
